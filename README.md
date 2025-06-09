@@ -7,7 +7,6 @@
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
@@ -30,10 +29,6 @@ MediSwarm is a **decentralized network** of React-based AI agents collaborating 
 - **Decentralized Architecture**: No single point of failure, ensuring robust and resilient operations
 - **Privacy-First Design**: Patient data remains secure and private throughout the entire trial lifecycle
 - **Blockchain Integration**: Immutable audit trails and transparent trial management
-
-## Demo
-
-> *Coming soon - Live demo will be available at [demo.mediswarm.io](https://demo.mediswarm.io)*
 
 ## Features
 
@@ -221,7 +216,7 @@ PostCSS configuration:
 
 ## Contributing
 
-We welcome contributions to MediSwarm! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
+We welcome contributions to MediSwarm!
 
 ### Development Workflow
 
